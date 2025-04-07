@@ -1,0 +1,348 @@
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\Библиотека.exe.config
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\Библиотека.exe
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\Библиотека.pdb
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\MetroFramework.Design.dll
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\MetroFramework.dll
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\bin\Debug\MetroFramework.Fonts.dll
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.DimForm.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Properties.Resources.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Авторизация.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Книги.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\_______ .B25154D7.Up2Date
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.exe
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.pdb
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Сотрудники.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Продажа.resources
+K:\3 курс 2 семестр\Курсовая работа\работы\Библиотека\Библиотека\obj\Debug\Библиотека.Покупатели.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.exe
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.exe.config
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.pdb
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.xml
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Properties.Resources.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Главная.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\_______ .B25154D7.Up2Date
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.exe
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.pdb
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.pdb
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.DimForm.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Авторизация.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Поставщики.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Сотрудники.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Продажа.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Книги.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Покупатели.resources
+C:\Users\Pashtet482\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Поставки.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.exe.config
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.exe
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\Книжный.pdb
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.Design.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.pdb
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.xml
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.SuggestedBindingRedirects.cache
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.DimForm.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Properties.Resources.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Авторизация.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Главная.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Поставки.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Поставщики.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Сотрудники.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Продажа.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Книги.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.Покупатели.resources
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный магазин.csproj.CopyComplete
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.exe
+C:\Users\W2247144\Desktop\Библиотека\Библиотека\obj\Debug\Книжный.pdb
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.exe.config
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.exe
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.pdb
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.Design.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.Fonts.dll
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.pdb
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.xml
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.pdb
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.xml
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.pdb
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.xml
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.DimForm.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Properties.Resources.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Авторизация.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Главная.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Поставки.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Поставщики.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Сотрудники.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Продажа.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Книги.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Покупатели.resources
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\_______ .B25154D7.Up2Date
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.exe
+K:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\Книжный.exe.config
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\Книжный.exe
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\Книжный.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.xml
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.DimForm.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Properties.Resources.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Авторизация.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Главная.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Поставки.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Поставщики.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Сотрудники.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Продажа.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Книги.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.Покупатели.resources
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\_______ .B25154D7.Up2Date
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.exe
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\obj\Debug\Книжный.pdb
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\System.Memory.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pashtet482\Desktop\Книжный\Книжный\bin\Debug\System.Buffers.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Книжный.exe.config
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Книжный.exe
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Книжный.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.Design.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Memory.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Buffers.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.SuggestedBindingRedirects.cache
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.DimForm.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Properties.Resources.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Авторизация.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Главная.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Поставки.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Поставщики.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Сотрудники.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Продажа.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Книги.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Покупатели.resources
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CopyComplete
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.exe
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\obj\Debug\Книжный.Добавление.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.exe.config
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.exe
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\Книжный.pdb
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.Design.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\MetroFramework.Fonts.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\System.Memory.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\System.Buffers.dll
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.pdb
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.xml
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.pdb
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.xml
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.pdb
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.xml
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.DimForm.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Properties.Resources.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Авторизация.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Главная.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Добавление.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Поставки.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Поставщики.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Сотрудники.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Продажа.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Книги.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.Покупатели.resources
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\_______ .B25154D7.Up2Date
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.exe
+D:\3 курс 2 семестр\Курсовая работа\Книжный\Книжный\obj\Debug\Книжный.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Книжный.exe.config
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Книжный.exe
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Книжный.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\MetroFramework.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Memory.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Buffers.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.AssemblyReference.cache
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.DimForm.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Properties.Resources.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Авторизация.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Главная.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Добавление.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Поставки.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Поставщики.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Сотрудники.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Продажа.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Книги.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Покупатели.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.GenerateResource.cache
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный магазин.csproj.CoreCompileInputs.cache
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\_______ .B25154D7.Up2Date
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.exe
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.System.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.ValueTuple.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.System.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.System.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Buffers.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Memory.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Charting.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Quality.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.System.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.ValueTuple.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Charting.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Quality.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.System.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.System.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Buffers.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Memory.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\W2247144\Desktop\Книжный\Книжный\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.ПродажаСоздание.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.Поставка_создание.resources
+C:\Users\Pashtet482\source\repos\Книжный\Книжный\obj\Debug\Книжный.ГлавнаяНЕадмин.resources
